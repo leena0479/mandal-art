@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/mandal-art/static/js/main.98f1fbf3.chunk.js",
-    "main.js.map": "/mandal-art/static/js/main.98f1fbf3.chunk.js.map",
-    "runtime-main.js": "/mandal-art/static/js/runtime-main.420b7311.js",
-    "runtime-main.js.map": "/mandal-art/static/js/runtime-main.420b7311.js.map",
-    "static/js/2.4088d133.chunk.js": "/mandal-art/static/js/2.4088d133.chunk.js",
-    "static/js/2.4088d133.chunk.js.map": "/mandal-art/static/js/2.4088d133.chunk.js.map",
-    "index.html": "/mandal-art/index.html",
-    "static/js/2.4088d133.chunk.js.LICENSE.txt": "/mandal-art/static/js/2.4088d133.chunk.js.LICENSE.txt",
-    "static/media/PAYW-Pro-Bold.a1771f12.otf": "/mandal-art/static/media/PAYW-Pro-Bold.a1771f12.otf",
-    "static/media/PAYW-Pro-Light.56d568cc.otf": "/mandal-art/static/media/PAYW-Pro-Light.56d568cc.otf",
-    "static/media/PAYW-Pro-Medium.3ab65dc0.otf": "/mandal-art/static/media/PAYW-Pro-Medium.3ab65dc0.otf",
-    "static/media/PAYW-Pro-Regular.a73ecfb6.otf": "/mandal-art/static/media/PAYW-Pro-Regular.a73ecfb6.otf",
-    "static/media/PAYW-Pro-SemiBold.06347de2.otf": "/mandal-art/static/media/PAYW-Pro-SemiBold.06347de2.otf",
-    "static/media/mandalart_otani.1cb68312.jpeg": "/mandal-art/static/media/mandalart_otani.1cb68312.jpeg"
+    "main.js": "./static/js/main.98f1fbf3.chunk.js",
+    "main.js.map": "./static/js/main.98f1fbf3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.468baaff.js",
+    "runtime-main.js.map": "./static/js/runtime-main.468baaff.js.map",
+    "static/js/2.5bd4378c.chunk.js": "./static/js/2.5bd4378c.chunk.js",
+    "static/js/2.5bd4378c.chunk.js.map": "./static/js/2.5bd4378c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.5bd4378c.chunk.js.LICENSE.txt": "./static/js/2.5bd4378c.chunk.js.LICENSE.txt",
+    "static/media/PAYW-Pro-Bold.a1771f12.otf": "./static/media/PAYW-Pro-Bold.a1771f12.otf",
+    "static/media/PAYW-Pro-Light.56d568cc.otf": "./static/media/PAYW-Pro-Light.56d568cc.otf",
+    "static/media/PAYW-Pro-Medium.3ab65dc0.otf": "./static/media/PAYW-Pro-Medium.3ab65dc0.otf",
+    "static/media/PAYW-Pro-Regular.a73ecfb6.otf": "./static/media/PAYW-Pro-Regular.a73ecfb6.otf",
+    "static/media/PAYW-Pro-SemiBold.06347de2.otf": "./static/media/PAYW-Pro-SemiBold.06347de2.otf",
+    "static/media/mandalart_otani.1cb68312.jpeg": "./static/media/mandalart_otani.1cb68312.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.420b7311.js",
-    "static/js/2.4088d133.chunk.js",
+    "static/js/runtime-main.468baaff.js",
+    "static/js/2.5bd4378c.chunk.js",
     "static/js/main.98f1fbf3.chunk.js"
   ]
 }
