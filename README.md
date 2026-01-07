@@ -8,7 +8,7 @@
   <img src='https://img.shields.io/badge/version-1.0.0-yellow' alt='license' />
   
  </a>
-  <div> ✨ Plan your future with Mandal-art ✨ </div>
+  <div> ✨ 26년 목표를 세워보아요 with 만다라트 ✨ </div>
   <br /><br />
 </div>
 
