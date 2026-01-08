@@ -3,9 +3,8 @@ import FooterWrapper from './index.styles';
 
 const Footer = () => (
   <FooterWrapper>
-    <a href='https://github.com/ddongule/mandal-art' target='_blank' rel='noreferrer'>
       <span className='madeby'>
-        💛 made by <span>@ddongule </span>
+         made by <span>💛이나💛 </span>
       </span>
     </a>
   </FooterWrapper>
