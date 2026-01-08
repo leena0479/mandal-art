@@ -27,7 +27,7 @@ function Input({ handleUserName }) {
         onBlur={onHandleFocusOut}
         onKeyDown={onPreventTab}
         maxLength='8'
-        placeholder='2026년 이나'
+        placeholder='2026년이나'
       />
     </InputWrapper>
   );
